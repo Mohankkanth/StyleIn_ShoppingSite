@@ -55,6 +55,10 @@ const Router = createBrowserRouter([
         element: <Women/>,
       },
       {
+        path: "/Kids",
+        element: <Kids />,
+      },
+      {
         path:"/Shirt",
         element:<Shirt/>,
       },
@@ -70,6 +74,8 @@ const Router = createBrowserRouter([
         path:"/Shorts",
         element:<Shorts/>,
       },
+      
+
       {
         path:"/Kurtas",
         element:<Kurtas/>,

@@ -55,6 +55,10 @@ const Router = createBrowserRouter([
         element: <Women/>,
       },
       {
+        path: "/Kids",
+        element: <Kids />,
+      },
+      {
         path:"/Shirt",
         element:<Shirt/>,
       },
