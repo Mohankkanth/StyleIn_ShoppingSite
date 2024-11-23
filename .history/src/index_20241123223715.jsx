@@ -13,12 +13,14 @@ import Shirt from "./component/Men/Shirt";
 import T_Shirt from "./component/Men/T_Shirt";
 import Pant from "./component/Men/pant";
 import Shorts from "./component/Men/Shorts";
+import Boys from "./component/Kids/Boys/Boys";
+import Girls from "./component/Kids/Girls/Girls";
 import Kurtas from "./component/Women/kurtas";
 import Sarees from "./component/Women/Saree";
 import Leggin from "./component/Women/Leggin";
 import Dupattas from "./component/Women/Dupattas";
 import AboutUs from "./component/Aboutus/About";
-import Logo from "./component/Logo/LogoItem";
+import Logo from "./component/Logo/Logo";
 
 const AppLayout = () => {
   return (
