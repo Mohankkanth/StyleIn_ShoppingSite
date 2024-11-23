@@ -93,16 +93,16 @@ const TShirtProducts = [
           rating: 4.3,
           reviews: 52 
         },
-        // { 
-        //     id: 10, 
-        //     name: "Relaxed Fit Crew T-shirt", 
-        //     price: "699", 
-        //     oldprice:"999",
-        //     offer:"30% Off", 
-        //     img: "https://ik.imagekit.io/Sample/E-Commerce/T-Shirt/tShirt10.jpg?updatedAt=1732250916027", 
-        //     rating: 4.3,
-        //     reviews: 52 
-        //   },
+        { 
+            id: 10, 
+            name: "Relaxed Fit Crew T-shirt", 
+            price: "699", 
+            oldprice:"999",
+            offer:"30% Off", 
+            img: "https://ik.imagekit.io/Sample/E-Commerce/T-Shirt/tShirt10.jpg?updatedAt=1732250916027", 
+            rating: 4.3,
+            reviews: 52 
+          },
   ];
   
   export default TShirtProducts;
